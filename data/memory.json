@@ -1,0 +1,75 @@
+{
+  "sessions": {
+    "default": {
+      "history": [
+        {
+          "role": "user",
+          "content": "continue",
+          "time": 1777991703.651152
+        },
+        {
+          "role": "assistant",
+          "content": "Empty query. Please describe what you want to find.",
+          "time": 1777991703.6512341
+        },
+        {
+          "role": "user",
+          "content": "retry",
+          "time": 1777991703.6513112
+        },
+        {
+          "role": "assistant",
+          "content": "Empty query. Please describe what you want to find.",
+          "time": 1777991703.651384
+        },
+        {
+          "role": "user",
+          "content": "Inception 2010 download",
+          "time": 1777991873.687242
+        },
+        {
+          "role": "user",
+          "content": "Inception 2010",
+          "time": 1777992057.0260632
+        },
+        {
+          "role": "assistant",
+          "content": "## Media Results\nFound 79 resources\n\n### Online / Stream\n\n- https://1moviesz.to/watch/movie-the-prestige-omj8q\n- https://1moviesz.to/watch/movie-fight-club-1kk5d\n- https://1moviesz.to/watch/movie-the-lord-of-the-rings-the-return-of-the-king-e4z7d\n- https://1moviesz.to/genre/tv-movie\n- https://1moviesz.to/watch/movie-memento-dngy3\n- https://1moviesz.to/watch/movie-se7en-k6kz2\n- https://1moviesz.to/watch/movie-avatar-6pr75\n- https://1moviesz.to/watch/movie-the-dark-knight-rises-jonjm\n- https://1moviesz.to/watch/movie-django-unchained-46qbj\n- https://1moviesz.to/watch/movie-the-lord-of-the-rings-the-two-towers-jkl65\n- https://1moviesz.to/watch/movie-the-dark-knight-8pn8z\n- https://1moviesz.to/watch/movie-joker-go8o5\n- https://1moviesz.to/watch/movie-the-avengers2-9e7ql\n- https://1moviesz.to/movie\n- https://1moviesz.to/watch/movie-interstellar-wx3e3\n\n---\nType **continue** for next page | **retry** to re-search | or enter a new query",
+          "time": 1777992094.7105122
+        }
+      ],
+      "searched_sites": [
+        {
+          "query": "Inception 2010 下载",
+          "sites": [
+            "https://www.imdb.com/title/tt1375666/",
+            "https://www.hdfilmcehennemi.now/film/baslangic-2010-izle-2/",
+            "https://zh.wikipedia.org/zh-hans/全面啟動",
+            "https://www.netflix.com/title/70131314",
+            "https://lookmovie0.to/movies/view/1375666-inception-2010",
+            "https://www.youtube.com/watch?v=YoHD9XEInc0",
+            "https://filmekseni.cc/hd-baslangic-izle/",
+            "https://lostt-lordfilm.ru/film/nachalo-2010/",
+            "https://filmmakinesi.to/film/inception-baslangic-2010-izlesene-fm6/",
+            "https://1moviesz.to/watch/movie-inception-w5jqp"
+          ],
+          "time": 1777992094.709929
+        }
+      ],
+      "created_at": 1777991351.024585
+    },
+    "sports": {
+      "history": [
+        {
+          "role": "user",
+          "content": "NBA scores",
+          "time": 1777991351.025058
+        }
+      ],
+      "searched_sites": [],
+      "created_at": 1777991351.025002
+    }
+  },
+  "known_sites": [],
+  "current_session": "default"
+}

@@ -1,0 +1,16 @@
+{
+  "llm": {
+    "url": "https://api.openai.com/v1",
+    "apikey": "sk-your-api-key-here",
+    "model": "gpt-4o"
+  },
+  "search": {
+    "max_results": 15,
+    "max_rounds": 3,
+    "timeout": 15
+  },
+  "memory": {
+    "max_history": 50,
+    "max_sites": 200
+  }
+}
